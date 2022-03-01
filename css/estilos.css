@@ -1,0 +1,56 @@
+.carousel img{
+    border-radius: 0;
+    
+}
+
+.buttonAction{
+    display: flex;
+    justify-content: center;
+    margin: 2em;
+}
+
+.next{
+    margin: 1em;
+    color: chartreuse;
+}
+.prev{
+    margin: 1em;
+    color: chocolate;
+}
+
+.conteudo{
+
+    background-color: whitesmoke;
+    padding: 50px;
+}
+
+.conteiner1{
+   
+    background-color: rgb(216, 72, 47);
+    display: flex;
+    padding-left: 12em;
+}
+
+.topo{
+    background-color: black;
+    
+}
+
+.carousel{
+    background-color: tomato;
+    
+    
+  
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    
+}
+
+main {
+    flex: 1 0 auto;
+}
+
